@@ -1,0 +1,1 @@
+n = input("insert a number between 1-9: ")
